@@ -33,6 +33,7 @@ require 'funciones.php';
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="index.php">Kawschool Store</a>
+          <a class="navbar-brand" href="./panel/index.php">panel</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav pull-right">
